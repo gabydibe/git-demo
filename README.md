@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-Pablito clavo un clavito
-
-Más info el readme
+1. index.html
